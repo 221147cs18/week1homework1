@@ -11,13 +11,24 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     
-    cout << "Kamron" << "Uktamov" << "01";
+//    cout << "Subject      ";
+//    cout << "Marks" <<endl;
+//    cout << "Mathematcs   ";
+//    cout << "Subject      ";
+//    cout << "Marks"  <<endl;
+//    cout << "Mathematcs   ";
+//    cout << "Subject      ";
+//    cout << "Marks"  <<endl;
+//    cout << "Mathematcs   ";
     
-          cout << "CS-23" << "/n";
+//    int a = 0, b = 0;
+//    cout << " Enter first number: ";cin >> a;
+//    cout << " Enter secoud number: ";cin >> b;
+//    cout << " The sum is: " << a + b << endl;
     
-    cout << "221147" << "/n";
-    
-    
+//    char b;
+//    cout << " Enter any cheracter ";cin >> b;
+//    cout << " ASCII equivelent is: " << (int)b <<endl;
     
     return 0;
 }
